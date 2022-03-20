@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_page_1"
+        android:enabled="true"
+        android:icon="@drawable/ic_receipt"
+        android:title="@string/receipts_tab"/>
+    <item
+        android:id="@+id/tab_page_2"
+        android:enabled="true"
+        android:icon="@drawable/ic_camera_outline"
+        android:title="@string/camera_tab"/>
+    <item
+        android:id="@+id/tab_page_3"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings_tab"/>
+</menu>

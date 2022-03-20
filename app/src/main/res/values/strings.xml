@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReceiptTracker</string>
+    <string name="receipts_tab">Receipts</string>
+    <string name="camera_tab">Camera</string>
+    <string name="settings_tab">Settings</string>
+</resources>
